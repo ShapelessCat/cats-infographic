@@ -1,11 +1,21 @@
-## Cats Infographic
+# Cats Infographic
 
-This is version 1.2 for **cats 1.3.0**, **cats-effect 1.0.0**, and **cats-mtl 0.2.3**.
+cats-infographic 2 is diagram that shows the typeclass hierarchy for **cats 2.9.0**, **cats-effect 3.4.5**, and **cats-mtl 1.3.0**.
 
-This is an OmniGraffle 7 diagram of the Cats typeclass hierarchy, shareable under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+**TODO**: Need better fonts, font sizes, and maybe better layout, .svg version background should be opaque.
+
+In the upstream repository [tpolecat/cats-infographic](https://github.com/tpolecat/cats-infographic),
+Rob Norris ([tpolecats](https://github.com/tpolecat)) created the diagram with [*OmniGraffle*](https://www.omnigroup.com/omnigraffle).
+*OmniGraffle* is not free, and people can't help to maintain and update the diagram without buying/subscribing *OmniGraffle*.
+This is why I created my up-to-date version of cats-infographic with the free online tool [mathcha](https://www.mathcha.io), and then output a *LaTeX* file.
+
+People who want to contribute can load the [cats-infographic.mathcha](./cats-infographic.mathcha) file with [mathcha](https://www.mathcha.io)
+and edit the diagram directly. People who want to polish details can edit the [cats-infographic.tex](./cats-infographic.tex) file.
+
+I put the upstream files in the [old](old/) folder. Both the new and old diagrams in this repository are shareable under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 The `.pdf` export, suitable for framing or tattoo design, is probably what you want.
 
 The `.svg` export below is embiggenable with a gentle click.
 
-![](https://cdn.rawgit.com/tpolecat/cats-infographic/master/cats.svg?cacheBuster=3)
+![cats-infographic.svg](./cats-infographic.svg)
