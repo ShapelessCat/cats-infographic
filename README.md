@@ -1,6 +1,6 @@
 # Cats Infographic
 
-cats-infographic 2 is diagram that shows the typeclass hierarchy for **cats 2.9.0**, **cats-effect 3.4.5**, and **cats-mtl 1.3.0**.
+cats-infographic 2 is diagram that shows the typeclass hierarchy for **cats 2.10.0**, **cats-effect 3.5.4**, and **cats-mtl 1.4.0**.
 
 **TODO**: Need better fonts, font sizes, and maybe better layout, .svg version background should be opaque.
 
