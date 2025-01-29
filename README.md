@@ -1,11 +1,11 @@
 # Cats Infographic
 
-cats-infographic 2 is diagram that shows the typeclass hierarchy for **cats 2.10.0**, **cats-effect 3.5.4**, and **cats-mtl 1.4.0**.
+cats-infographic 2 is diagram that shows the typeclass hierarchy for **cats 2.13.0**, **cats-effect 3.5.7**, and **cats-mtl 1.5.0**.
 
 **TODO**: Need better fonts, font sizes, and maybe better layout, .svg version background should be opaque.
 
 In the upstream repository [tpolecat/cats-infographic](https://github.com/tpolecat/cats-infographic),
-Rob Norris ([tpolecats](https://github.com/tpolecat)) created the diagram with [*OmniGraffle*](https://www.omnigroup.com/omnigraffle).
+Rob Norris ([tpolecat](https://github.com/tpolecat)) created the diagram with [*OmniGraffle*](https://www.omnigroup.com/omnigraffle).
 *OmniGraffle* is not free, and people can't help to maintain and update the diagram without buying/subscribing *OmniGraffle*.
 This is why I created my up-to-date version of cats-infographic with the free online tool [mathcha](https://www.mathcha.io), and then output a *LaTeX* file.
 
